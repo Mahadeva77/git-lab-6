@@ -1,1 +1,1 @@
-console.log("Broken syntax
+console.log("Hello from CI/CD lab");
